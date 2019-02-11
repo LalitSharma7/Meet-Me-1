@@ -20,6 +20,14 @@
     .menu-btn.close .btn-line:nth-child(3) {
       transform: rotate(-45deg) translate(7px, -6px); }
 
+     .heart{
+        text-align: center;
+      }
+
+      .day{
+        color: red;
+      }
+
 .menu {
   position: fixed;
   top: 0;
